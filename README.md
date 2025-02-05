@@ -1,9 +1,5 @@
 <div>
    <img style="background: #0F172A;"  src="https://stackmasteryreadme.netlify.app/banner.svg" alt="Banner" />
-   <br />
-   <br />
-   <br />
-   <br />
   <div>
    <br />
    <br />
@@ -11,7 +7,10 @@
    <br />
     <img style="background: #0F172A;" src="https://stackmasteryreadme.netlify.app/abouttitle.svg" alt="Title" />
     <br />
+    <br />
     <p>Hello World</p>
+    <br />
+    <br />
   </div>
    <img style="background: #0F172A;" src="https://stackmasteryreadme.netlify.app/marueetitle.svg" alt="Title" />
    <br />
