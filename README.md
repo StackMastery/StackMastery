@@ -1,4 +1,4 @@
-<img src="https://stackmasteryreadme.netlify.app/banner.svg"/>
+<img src="https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg"/>
 <div>
 <a href="https://reactjs.org" target="_blank">
   <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React.js" />
