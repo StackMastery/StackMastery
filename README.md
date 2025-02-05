@@ -1,6 +1,6 @@
 <a href="https://github.com/StackMastery/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stackmasteryreadmemd.vercel.app/">
+    <source media="(prefers-color-scheme: dark)" srcset="https://stackmasteryreadmemd.vercel.app/](https://stackmasteryreadmemd.vercel.app](https://res.cloudinary.com/dogyg2j0h/image/upload/v1738731244/bannergtihub_jj2bmk.svg">
     <img alt="Andrew Grant's GitHub Profile README" src="https://stackmasteryreadmemd.vercel.app](https://res.cloudinary.com/dogyg2j0h/image/upload/v1738731244/bannergtihub_jj2bmk.svg">
   </picture>
 </a>
