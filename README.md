@@ -75,10 +75,12 @@
    <br />
    <br />
    
-   - I'm learning Frontend Web Development in Programming Hero  
+   - I'm learning Frontend Web Development in Programming Hero
+   - I' working in a Agro website for Sherpur Agro
+   - Currently working for a project named Note Index
    - Work in Sherpur Agro
    - Exploring Next Js
-   - After learning Next Js i will learn React Native
+   - After learning Next Js I will learn React Native
 
      
 </div>
