@@ -58,10 +58,10 @@
    <br />
    <br />
    
-   - I'm learning Frontend Web Development in Programming Hero  
-   - Work in Sherpur Agro
-   - Exploring Next Js
-   - After learning Next Js i will learn React Native
-   - Item 3
+   ### I'm learning Frontend Web Development in Programming Hero  
+   ### Work in Sherpur Agro
+   ### Exploring Next Js
+   ### After learning Next Js i will learn React Native
+   ### Item 3
 
 </div>
