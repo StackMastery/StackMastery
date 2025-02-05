@@ -45,7 +45,7 @@
          <img width="105" src="https://stackmasteryreadme.netlify.app/email.svg" />
       </a>
       <a href="https://www.linkedin.com/in/md-juanid-islam-labib-446a08342/">
-         <img width="105" src="https://stackmasteryreadme.netlify.app/linkedin.svg" />
+         <img width="200" src="https://stackmasteryreadme.netlify.app/linkedin.svg" />
       </a>
    </div>
 </div>
