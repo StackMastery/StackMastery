@@ -4,6 +4,7 @@
     <img alt="Andrew Grant's GitHub Profile README" src="https://stackmasteryreadme.netlify.app/banner.svg">
   </picture>
 </a>
+<img src="https://stackmasteryreadme.netlify.app/banner.svg"/>
 <div>
 <a href="https://reactjs.org" target="_blank">
   <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React.js" />
