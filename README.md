@@ -39,7 +39,7 @@
    <br />
    <div>
       <a href="https://www.facebook.com/stackmastery">
-         <img src="https://stackmasteryreadme.netlify.app/fb.svg" />
+         <img width="200" src="https://stackmasteryreadme.netlify.app/fb.svg" />
       </a>
    </div>
 </div>
