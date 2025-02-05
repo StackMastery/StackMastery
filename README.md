@@ -8,7 +8,7 @@
     <img style="background: #0F172A;" src="https://stackmasteryreadme.netlify.app/abouttitle.svg" alt="Title" />
     <br />
     <br />
-    <p>Hello I'm Md Junaid Islam. Jr. Frontend Web Developer. I am a passionate hard-working, </p>
+    <img src="https://stackmasteryreadme.netlify.app/aboutme.svg"/>
       <br />
       <br />
       <br />
