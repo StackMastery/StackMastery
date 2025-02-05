@@ -11,3 +11,8 @@
       <br />
   <img style="background: #0F172A;" src="https://stackmasteryreadme.netlify.app/marquee.svg" alt="Banner" />
 </div>
+
+<div>
+
+  <img src="https://github-stats-eight-iota.vercel.app/"/>
+</div>
