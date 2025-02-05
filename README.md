@@ -1,4 +1,4 @@
-<img width="1920" height="450" src="https://stackmasteryreadme.netlify.app/banner.svg" />
+<img style="background: #0F172A;" width="1920" height="450" src="https://stackmasteryreadme.netlify.app/banner.svg" alt="Banner" />
 <div>
 <a href="https://reactjs.org" target="_blank">
   <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React.js" />
