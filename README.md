@@ -1,9 +1,3 @@
-<a href="https://github.com/StackMastery/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stackmasteryreadme.netlify.app/banner.svg">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://stackmasteryreadme.netlify.app/banner.svg">
-  </picture>
-</a>
 <img src="https://stackmasteryreadme.netlify.app/banner.svg"/>
 <div>
 <a href="https://reactjs.org" target="_blank">
