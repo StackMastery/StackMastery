@@ -49,6 +49,21 @@
       </a>
    </div>
 </div>
+
+
+<div>
+   <br />
+   <br />
+   <br />
+   <br />
+
+   <img src="https://stackmasteryreadme.netlify.app/usedlangtitle.svg"/>
+   <br/>
+
+   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackmastery&theme=prussian&show_icons=true&hide_border=true&layout=compact"/>
+</div>
+
+
 <div>
    <br />
    <br />
@@ -63,4 +78,5 @@
    - Exploring Next Js
    - After learning Next Js i will learn React Native
 
+     
 </div>
